@@ -1,0 +1,3 @@
+[submodule "submodule-test-lib"]
+	path = submodule-test-lib
+	url = https://github.com/cllofty/submodule-test-lib.git
